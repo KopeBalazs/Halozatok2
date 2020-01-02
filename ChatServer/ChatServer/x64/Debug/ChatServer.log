@@ -1,0 +1,5 @@
+﻿  SysThread.cpp
+e:\anyag\halozatok chat program\new folder\chatserver\chatserver\systhread.cpp(9): warning C4005: 'INVALID_HANDLE_VALUE': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\handleapi.h(27): note: see previous definition of 'INVALID_HANDLE_VALUE'
+e:\anyag\halozatok chat program\new folder\chatserver\chatserver\systhread.cpp(153): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ChatServer.vcxproj -> E:\Anyag\Halozatok Chat Program\New folder\ChatServer\x64\Debug\ChatServer.exe
